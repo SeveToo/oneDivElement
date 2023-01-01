@@ -1,24 +1,24 @@
 <div align="center" id="top"> 
   
 <h1 align="center">One div element</h1>
-  <a target="_blank" href="https://sevetoo.github.io/onedivelemnt01/">
+  <a target="_blank" href="https://sevetoo.github.io/oneDivElement/">
   <img src="./preview.png" alt="One Div Element" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/onedivelemnt01/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/oneDivElement/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/onedivelemnt01?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/oneDivElement?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/onedivelemnt01?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/oneDivElement?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/onedivelemnt01?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/oneDivElement?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/onedivelemnt01?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/oneDivElement?color=56BEB8">
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/onedivelemnt01/
+https://sevetoo.github.io/oneDivElement/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/onedivelemnt01/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/oneDivElement/" >click link</a> )
 
 ## 😎 Made by
 
